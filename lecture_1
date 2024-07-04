@@ -1,0 +1,10 @@
+What is Data Science?
+Data science involves analyzing and manipulating various types of data, such as text, images, audio, and video, to make predictions and provide reasonable recommendations through systems like recommendation engines.
+
+Data Science vs AI vs ML:
+
+Data Science: It encompasses mathematics, statistics, visualization, and exploratory data analysis (EDA). These elements form the foundational building blocks for both AI and ML.
+
+Artificial Intelligence (AI): AI involves providing data to a system in a manner that allows it to make autonomous decisions and generate outputs. Essentially, it’s like giving a system a brain to think independently. Examples include Amazon Echo and Google Assistant.
+
+Machine Learning (ML): ML is a subset of AI that focuses on making recommendations based on provided data or past experiences. Examples include movie recommendations on OTT platforms like Netflix and product suggestions on online shopping sites like Amazon.
