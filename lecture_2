@@ -1,0 +1,28 @@
+Life Cycle of a Data Science Project
+
+Understanding the Problem
+
+Clearly define the project’s objectives.
+Determine the criteria for measuring success.
+Identify the type of problem (e.g., classification, regression).
+Gathering Relevant Data
+
+Collect data from various sources.
+Ensure the data is pertinent to the problem.
+Consider the data’s volume, variety, velocity, and veracity.
+Data Preparation & EDA (Exploratory Data Analysis)
+
+Clean the data by handling missing values and removing duplicates.
+Perform exploratory analysis to understand the data better.
+Prepare the data to be error-free and ready for modeling.
+Feature Engineering & Feature Extraction
+
+Select the specific features required for the analysis.
+Create new features to enhance model performance.
+Reduce dimensionality if there are too many features.
+Select the most important features for modeling.
+Model Building & Deployment
+
+Select appropriate algorithms and train the models.
+Validate the model’s performance using cross-validation.
+Deploy the model for real-time application or batch processing.
