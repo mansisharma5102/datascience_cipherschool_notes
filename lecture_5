@@ -1,0 +1,9 @@
+Introduction to Google Colab
+What is Google Colab?
+
+Google Colab is a free cloud service that enables users to write and execute Python code directly through their web browser.
+Key Features:
+
+No Setup Required: Start coding immediately without any installation or configuration.
+Free Access to GPUs and TPUs: Utilize powerful hardware accelerators for intensive computations.
+Easy Sharing: Effortlessly share your work with others via links.
