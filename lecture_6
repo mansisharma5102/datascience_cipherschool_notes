@@ -1,0 +1,53 @@
+
+Introduction to Version Control
+What is Git?
+Git is a distributed version control system, meaning that every developer working on a project with Git has a complete copy of the project history on their local system.
+
+Key Features:
+
+Snapshots: Git saves a snapshot of your project each time you commit, allowing you to revert to previous versions if needed.
+Branches: Git allows you to create separate branches for different features or parts of your project, making it easy to work on multiple features simultaneously.
+Local & Remote Repositories: Git supports both local repositories on your own system and remote repositories hosted on servers, enabling collaborative work.
+Basic Git Commands:
+
+git init: Initialize a new Git repository.
+git add: Add files to be tracked by Git.
+git commit: Save a snapshot of your project.
+git status: Check the status of your files and see which ones are staged for commit.
+What is a Repository?
+A repository is where your code, files, and each file's revision history are stored. Repositories can be:
+
+Local: Stored on your own system where you can make and commit changes.
+Remote: Stored on a server, allowing collaboration with others.
+What are Branches?
+Branches in Git allow developers to work on separate features or parts of a project independently. The main branch, often called the master or main branch, represents the official project history. Developers create separate branches for their work, which keeps their changes isolated until they are ready to be merged back into the main branch.
+
+What is Push?
+git push is the command used to upload your local repository changes to a remote repository. Before pushing, ensure your changes are committed. The typical workflow is: Add -> Commit -> Push.
+
+What is a Pull Request?
+A pull request is a request to merge your changes into the main branch of a project. It allows developers to discuss, review, and improve the code before merging.
+
+What is a Merge Request?
+A merge request is similar to a pull request. The steps typically are: Push -> Merge into Master/Main -> Provide a clear description of the changes made.
+
+What is Commit?
+A commit saves a snapshot of your project's current state, recording the context of the changes. The workflow is: git add (to stage changes) -> git commit (to save them).
+
+Using Git for Project Management:
+
+Branch Management: Create and manage branches for different features or tasks.
+Merging and Conflicts: Merge changes from different branches and resolve conflicts.
+Version Tracking: Use commands like git log, git diff, and git blame to track changes and understand the history of your project.
+What is GitHub?
+GitHub is a web-based platform that uses Git for version control. It allows multiple people to make changes to projects simultaneously and offers features such as:
+
+Pull Requests: Propose and review changes before merging.
+Forks: Copy and modify projects independently.
+Social Networking: Connect with other developers, share code, and collaborate.
+What is GitLab?
+GitLab is a web-based Git repository manager that provides both open and private repositories, as well as additional features such as:
+
+Issue Tracking: Track bugs and feature requests.
+CI/CD Pipelines: Automate testing and deployment.
+Merge Requests: Propose and review changes similar to pull requests on GitHub.
